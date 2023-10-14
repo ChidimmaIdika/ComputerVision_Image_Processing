@@ -8,7 +8,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Contributing](#contributing)
+- [Contributions](#contributions)
 - [License](#license)
 
 ## Introduction
@@ -54,7 +54,7 @@ This project includes various components for image processing and computer visio
 - Understanding and manipulating color channels (Red, Green, Blue).
 - Creating and drawing graphics and shapes programmatically.
 
-## Contributing
+## Contributions
 Contributions to this project are very welcome. If you have any ideas, improvements, or fixes, please open an issue or submit a pull request.
 
 ## License
